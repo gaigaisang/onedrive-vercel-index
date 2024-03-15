@@ -54,7 +54,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/gaigaisang',
+      link: 'https://github.com/ooify',
     },
     // {
     //   name: 'Telegram',
